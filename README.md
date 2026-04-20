@@ -1,6 +1,6 @@
 # NordicBeuty Price Scraper
 
-<img width="780" height="181" alt="image" src="https://github.com/user-attachments/assets/783c63de-7983-4a8c-babf-662dc64f9609" />
+![Lex Crawler](lex.jpg)
 
 Async Python price scraper built for [NordicBeuty](https://nordicbeuty.no) — a Norwegian skincare comparison platform.
 
